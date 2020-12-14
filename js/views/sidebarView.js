@@ -11,4 +11,4 @@ const SidebarView=({h, keywords, addTerm, removeTerm})=>
             </tr>)}
             </tbody>
         </table>
-    </div>;
+    </div>
